@@ -1,0 +1,29 @@
+main  {
+    font-family: Verdana;
+  }
+  header {
+    text-align: center;
+    background-color: lightgrey;
+  }
+  h1, h2 {
+    margin: 0;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+  }
+  
+  #img-div figcaption {
+    font-size: 12;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    text-align: center;
+  }
